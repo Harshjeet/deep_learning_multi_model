@@ -42,10 +42,7 @@ The model is evaluated on the test set to obtain the final performance metrics.
 ## Results
 The project achieved the following scores:
 
-- **Accuracy**: [Insert Accuracy Score]
-- **Precision**: [Insert Precision Score]
-- **Recall**: [Insert Recall Score]
-- **F1 Score**: [Insert F1 Score]
+- **F1 Score**: 0.91
 
 ## Usage
 To run the notebook and reproduce the results, open `attempt2.ipynb` and execute all cells.
